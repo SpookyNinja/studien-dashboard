@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+# eigene Daten, wird beim ersten Start aus den Beispieldaten angelegt
+daten/studium.txt

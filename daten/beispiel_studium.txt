@@ -1,0 +1,47 @@
+# Studien-Dashboard - Beispieldaten
+# Format: siehe speicher.py (TextDateiSpeicher)
+# STUDIENGANG;name;gesamt_ects;regelstudienzeit;ziel_note
+STUDIENGANG;Data Science (B.Sc.);180;6;2.0
+# SEMESTER;nummer;abgeschlossen
+SEMESTER;1;ja
+SEMESTER;2;ja
+SEMESTER;3;nein
+SEMESTER;4;nein
+SEMESTER;5;nein
+SEMESTER;6;nein
+# MODUL;semester;name;ects;status;pruefungsart;note;datum
+MODUL;1;Einführung in Data Science;5;ABGESCHLOSSEN;Klausur;1.7;2024-03-14
+MODUL;1;Mathematik Grundlagen I;5;ABGESCHLOSSEN;Klausur;2.3;2024-04-22
+MODUL;1;Einführung in die Programmierung mit Python;5;ABGESCHLOSSEN;Klausur;1.3;2024-02-08
+MODUL;1;Wissenschaftliches Arbeiten;5;ABGESCHLOSSEN;Workbook;1.7;2024-01-19
+MODUL;1;Kollaboratives Arbeiten;5;ABGESCHLOSSEN;Fallstudie;1.3;2024-05-30
+MODUL;2;Mathematik Grundlagen II;5;ABGESCHLOSSEN;Klausur;2.7;2024-09-05
+MODUL;2;Statistik - Inferenzstatistik;5;ABGESCHLOSSEN;Klausur;2.0;2024-10-17
+MODUL;2;Datenmodellierung und Datenbanksysteme;5;ABGESCHLOSSEN;Klausur;1.7;2024-08-01
+MODUL;2;Intercultural and Ethical Decision-Making;5;ABGESCHLOSSEN;Fallstudie;1.3;2024-11-12
+MODUL;2;Projekt: Build a Data Mart in SQL;5;ABGESCHLOSSEN;Portfolio;1.7;2024-12-09
+MODUL;3;Statistik - Wahrscheinlichkeit und deskriptive Statistik;5;IN_BEARBEITUNG;;;
+MODUL;3;Objektorientierte und funktionale Programmierung mit Python;5;IN_BEARBEITUNG;;;
+MODUL;3;Data Science Software Engineering;5;ABGESCHLOSSEN;Fallstudie;1.7;2025-02-20
+MODUL;3;Machine Learning - Supervised Learning;5;OFFEN;;;
+MODUL;3;Machine Learning - Unsupervised Learning und Feature Engineering;5;OFFEN;;;
+MODUL;3;Big Data Technologien;5;OFFEN;;;
+MODUL;3;Explorative Datenanalyse und Visualisierung;5;OFFEN;;;
+MODUL;3;Statistische Modellierung;5;OFFEN;;;
+MODUL;4;Cloud Computing;5;OFFEN;;;
+MODUL;4;Data Engineering;5;OFFEN;;;
+MODUL;4;Projekt: Data Analysis;5;OFFEN;;;
+MODUL;4;Deep Learning;5;OFFEN;;;
+MODUL;4;Data Quality und Data Wrangling;5;OFFEN;;;
+MODUL;4;Projekt: Machine Learning;5;OFFEN;;;
+MODUL;5;Agiles Projektmanagement;5;OFFEN;;;
+MODUL;5;Projekt: Big Data;5;OFFEN;;;
+MODUL;5;Natural Language Processing;5;OFFEN;;;
+MODUL;5;Wahlpflichtmodul A;5;OFFEN;;;
+MODUL;5;Wahlpflichtmodul B;5;OFFEN;;;
+MODUL;5;Seminar: Data Science und Gesellschaft;5;OFFEN;;;
+MODUL;6;Wahlpflichtmodul C;5;OFFEN;;;
+MODUL;6;Wahlpflichtmodul D;5;OFFEN;;;
+MODUL;6;Projekt: Computer Vision;5;OFFEN;;;
+MODUL;6;Seminar: Aktuelle Themen der Informatik;5;OFFEN;;;
+MODUL;6;Bachelorarbeit;10;OFFEN;;;
