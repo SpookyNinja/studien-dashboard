@@ -44,4 +44,5 @@ MODUL;6;Wahlpflichtmodul C;5;OFFEN;;;
 MODUL;6;Wahlpflichtmodul D;5;OFFEN;;;
 MODUL;6;Projekt: Computer Vision;5;OFFEN;;;
 MODUL;6;Seminar: Aktuelle Themen der Informatik;5;OFFEN;;;
-MODUL;6;Bachelorarbeit;10;OFFEN;;;
+MODUL;6;Bachelorarbeit;9;OFFEN;;;
+MODUL;6;Kolloquium zur Bachelorarbeit;1;OFFEN;;;
